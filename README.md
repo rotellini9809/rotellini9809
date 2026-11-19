@@ -31,4 +31,5 @@ state estimation.
 
 ## 📫 Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/simone-cargnin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/simone-cargnin)
+- ✉️ [rotellini9809@gmail.com](mailto:rotellini9809@gmail.com)
